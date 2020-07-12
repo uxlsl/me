@@ -2,7 +2,7 @@
 
 ## 考勤数据查询平台 
 
-地址:https://agile-brook-31571.herokuapp.com/stats
+demo地址:https://agile-brook-31571.herokuapp.com/stats
 
 ![image-20200707154028974](./image-20200707154028974.png)
 
@@ -13,7 +13,7 @@
 
 
 ## 二手房产采集系统
-地址:https://sheltered-plains-83735.herokuapp.com/house/
+demo 地址:https://sheltered-plains-83735.herokuapp.com/house/
 
 
 
